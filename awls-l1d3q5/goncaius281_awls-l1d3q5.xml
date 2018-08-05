@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</title>
+        <author xml:id="AW">Adam Wodeham</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</title>
+          <date when="2016-12-13">December 13, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="goncaius281">Cambridge, Gonville and Caius, Ms 281 (674), ff. 105-250.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="include-list">
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="173-v"/><cb ed="#C" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="awls-l1d3q5">
+        <head>Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</head>
+        <p xml:id="awlsl1d3q5-cdtvet">
+          Iuxta lectionem circa principium secundi continuando materiam primi qui est de deo et sancta trinitate 
+          et specialiter tertiae distinctionis primi quae prae manibus habetur quoad conclusiones in qua tractatur de imagine 
+          et vestigio trinitatis quaero utrum in homine de quo principaliter tractatur 
+          in secundo sit imago dei et trinitatis sicut in ceteris creaturis factis propter hominem ut habitum est in lectione est vestigium dei et trinitatis
+        </p>
+        <p xml:id="awlsl1d3q5-qnveid">
+          quod non videtur quia secundum <ref><name ref="#Augustine">beatum augustinum</name> in <title>sermone communi</title></ref> 
+          <quote>si servasset in se bonum quod in isto creavit Deus id est imagine suam 
+          semper laudaret deum non solum lingua sed et <sic>via</sic></quote> igitur ex opposito 
+          non sic laudat igitur non servavit in se bonum quod est imago igitur homo non est imago dei etc
+        </p>
+        <p>
+          <!-- Praeterea, si sic -->
+        </p>
+        <p>
+          <!-- Item quod in aliis -->
+        </p>
+        <p>
+          <!-- ad oppositum -->
+        </p>
+        <p>
+          <!-- in ista quaestione -->
+        </p>
+        <!-- article 1 -->
+        <p xml:id="awlsl1d3q5-cpcscc">
+          Circa primum sciendum quod aliquae sunt conditiones 
+          communes tam vestigio quam imagini et aliquae propriae huic <!-- vel om. --> illi 
+          una de communibus est quod tam vestigium quam imago differt ab illo cuius est 
+          alia quod tam vestigium quam imago ducit in <sic>notitias</sic> <sic>istius</sic> cuius est imago 
+          vel vestigium <sic>tam</sic> causativum notitiae illius cuius est imago vel vestigium 
+          mediante notitia sua non utique in primam notitia distinctam et propriam 
+          illius cuius est imago vel vestigium quia ex <!-- somehow added here: "alibi declaratis patet quod notitia" --> superioribus patuit quod notitia 
+          incomplexa unius rei non ducit in primam notitia incomplexam distinctam 
+          et propriam et simplicem alterius rei sed per illum modum quo una res mediante 
+          notitia sua incomplexa potest esse causa partialis <sic>rem est motionis</sic> alterius 
+          habitualiter notae ita quod notitia habitualis necessario concurrit sicut notitia partialis
+        </p>
+        <p xml:id="awlsl1d3q5-idovis"> 
+          istud declarat unus per experientiam et bene Posito enim quod aliquis 
+          nullam penitus habeat cognitionem de hercule si videat statuam herculis 
+          <pb ed="#C" n="174-r"/>
+          <cb ed="#C" n="a"/>
+          non plus cogitabit de hercule quam de sorte si autem viderit 
+          herculem et <sic>recipiat</sic> habitualem notitiam herculis 
+          vel etiam per auditum 
+          si didicerit conditiones proprias <sic>quas</sic> 
+          <choice><sic>simratum</sic><corr>signatas</corr></choice> in imagine eius seu statua et postea 
+          videat statuam sibi similem in accidentibus 
+          exterioribus virtute visionis statuae poterit recordari 
+          herculis etiam posito quod nunquam prius vidisset illam 
+          statuam
+        </p>
+        <p xml:id="awlsl1d3q5-sehids">
+          simile etiam huius est quod aliquando videntes arborem 
+          vel lapidem a remotis statim cogitamus de homine et aestimamus ibi 
+          stare hominem quod utique non contingeret 
+          nisi praehabita notitia habituali hominis cum lapis vel arbor 
+          non contineat virtualiter primam notitiam hominis et ita de similibus
+        </p>
+        <p xml:id="awlsl1d3q5-eseqda">
+          et sicut est de imagine herculis 
+          respectu rememorationis herculis ita est de vestigio quod 
+          <quote>si aliquis videat vestigium bovis recordabitur</quote> 
+          de bove habitualiter cognito sed si nunquam prius habuisset 
+          aliquam notitiam de bove non plus recordaretur <unclear>sui apud istum</unclear> quam de asino
+        </p>
+        <p>
+          <!--left off p. 209 -->
+        </p>
+          
+        
+      </div>
+    </body>
+  </text>
+</TEI>

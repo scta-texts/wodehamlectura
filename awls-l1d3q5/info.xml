@@ -1,0 +1,57 @@
+<info>
+  <body>
+    <div xml:id="awls-l1d3q5">
+      <head>Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</head>
+      <p xml:id="awlsl1d3q5-cdtvet">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-cdtvet"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-qnveid">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-qnveid"/>
+        </assertions>
+      </p>
+      <p>
+        <!-- Praeterea, si sic -->
+      </p>
+      <p>
+        <!-- Item quod in aliis -->
+      </p>
+      <p>
+        <!-- ad oppositum -->
+      </p>
+      <p>
+        <!-- in ista quaestione -->
+      </p>
+      <!-- article 1 -->
+      <p xml:id="awlsl1d3q5-cpcscc">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-cpcscc"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-idovis">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-idovis"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-sehids">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-sehids"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-eseqda">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-eseqda"/>
+        </assertions>
+      </p>
+      <p>
+        <!--left off p. 209 -->
+      </p>
+      
+      
+    </div>
+  </body>
+</info>
+
+
