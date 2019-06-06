@@ -45,9 +45,13 @@
           <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-eseqda"/>
         </assertions>
       </p>
-      <p>
-        <!--left off p. 209 -->
+      <p xml:id="awlsl1d3q5-peiuaa">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-peiuaa"/>
       </p>
+      <p xml:id="awlsl1d3q5-aeppit">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-aeppit"/>
+      </p>
+        
       
       
     </div>
