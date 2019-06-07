@@ -80,6 +80,31 @@
           <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-esiidp"/>
         </assertions>
       </p>
+      <p xml:id="awlsl1d3q5-qaacee">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-qaacee"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-scihri">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-scihri"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-siqcie">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-siqcie"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-tisine">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-tisine"/>
+        </assertions>
+      </p>
+      <p xml:id="awlsl1d3q5-qisqfe">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-qisqfe"/>
+        </assertions>
+      </p>
     </div>
   </body>
 </info>

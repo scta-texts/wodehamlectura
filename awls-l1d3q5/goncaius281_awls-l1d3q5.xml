@@ -214,7 +214,7 @@
           <lb ed="#C"/>exprimit anima cum illis actibus ordinem et originem inter 
           <lb ed="#C"/>diversas personas
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-qaacee">
           <lb ed="#C"/>Quod autem actus volendi sit effective ab actu 
           <lb ed="#C"/>intelligendi probat et bene et ego concedo conclusionem et tenui eam propter 
           <lb ed="#C"/>idem distinctione prima quia omne absolutum neccessario praesuppositum alteri 
@@ -225,33 +225,35 @@
           <lb ed="#C"/>absolutus sufficienter dependet a suis causis essentialibus etc
         </p>
         <!-- dub 1, a. 2 -->
-        <p>
+        <p xml:id="awlsl1d3q5-scihri">
           <lb ed="#C"/><pc type="#pilcrow"/>Sed contra ista est primum dubium contra illud <unclear>in<!-- something above the n" --></unclear> quo dicitur consistere 
           <lb ed="#C"/>ratio ymaginis quia non videtur quod in substantia animae alico modo 
           <lb ed="#C"/>etiam imperfecte consistat ratio ymaginis quia ymago necessario requirit distinctionem 
           <lb ed="#C"/>aliquam Sed in substantia animae nulla est distinctio igitur nullo modo habet 
           <lb ed="#C"/>rationem ymaginis
         </p>
-        <p>
-          <pc type="#pilcrow"/>Item, quod nec in substantia animae et duobus actibus, videtur, quia inter
-          partes imaginis debet esse consubstantialitas. Sed inter substantiam animae
-          et istos actus nulla est consubstantialitas, igitur etc.
+        <p xml:id="awlsl1d3q5-siqcie">
+          <pc type="#pilcrow"/>Item quod nec in substantia animae et duobus actibus 
+          <lb ed="#C"/>videtur quia inter partes ymaginis debet esse consubstantialitas Sed inter 
+          <lb ed="#C"/>substantiam animae et istos actus nulla est consubstantialitas igitur etc
         </p>
-        <p>
-          Item, ut supra, secundum beatum Augustinum, XIV De Trinitate, cap.
-          3, et de magnis, 1 imago Dei in creatura rationali est immortalis; sed isti actus
-          secundi non sunt immortales nec incorruptibiles, igitur.
+        <p xml:id="awlsl1d3q5-tisine">
+          <pc type="#pilcrow"/>Item ut supra secundum <ref>beatum augustinum 14 de trinitate cap 3 et de magnis</ref> ymago 
+          <lb ed="#C"/>dei in creatura rationali est immortalis sed isti actus secundi 
+          <lb ed="#C"/>non sunt immortales nec incorruptibiles igitur
         </p>
-        <p>
-          Item, secundum hoc posset in mente rationali inveniri imago respectu
-          cuiuslibet obiecti intelligibilis et diligibilis, cuius oppositum innuit Augustinus,
-          XII De Trinitate, cap. 4;2 et etiam XIV De Trinitate, cap. 23, de parvis,3 dicit
-          quod "non propterea est trinitas mentis imago Dei quia sui meminit mens
-          et intelligit ac diligit se, sed quia [potest] memorasse et intelligere et arnare
-          eum a quo facta est." "In eo solo," inquit "quod ad contemplationem pertinet
-          aeternorum, non [solum] trinitas sed etiam imago Dei; in hoc autem quod
-          derivatum est in actione temporalium, etiam si trinitas possit, non tamen iniago
-          Dei inveniri potest."
+        <p xml:id="awlsl1d3q5-qisqfe">
+          Item secundum hoc 
+          <lb ed="#C"/>posset in mente rationali inveniri ymago respectu cuiuslibet obiecti 
+          <lb ed="#C"/>intelligibilis et diligibilis cuius oppositum innuit augustinus 12 de trinitate cap 4 
+          <lb ed="#C"/>et etiam 14 de trinitate cap. 23 de parvis dicit quod non propterea est 
+          <lb ed="#C"/>trinitas mentis imago dei quia sui meminit mens 
+          <lb ed="#C"/>et intelligit ac diligit se sed quia <unclear>memorasse</unclear> et intelligere et 
+          <lb ed="#C"/>amare eum a quo facta est in eo solo inquit quod ad con<lb ed="#C"/>templationem 
+          pertinet aeternorum non trinitas sed etiam ymago 
+          <lb ed="#C"/>dei in hoc autem quod derivatum est in actione tem<lb ed="#C"/>poralium 
+          etiam si trinitas possit non tamen imago dei inveniri 
+          <lb ed="#C"/>potest
         </p>
         <p>
           . Q~i~to, quia _eade'." ratione in parte sensitiva esset imago Trinitatis, nam
