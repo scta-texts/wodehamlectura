@@ -135,7 +135,6 @@
           <lb ed="#C"/>poterit recordari herculis etiam posito quod nunquam prius vidisset 
           <lb ed="#C"/>illam statuam
         </p>
-        <!-- left off -->
         <p xml:id="awlsl1d3q5-sehids">
           Simile etiam huius est quod aliquando videntes ar<lb ed="#C"/>borem 
           vel lapidem a remotis statim cogitamus de homine 
@@ -163,58 +162,57 @@
           <lb ed="#C"/>assignari conditiones in quibus conveniunt <pc type="virgula">/</pc> <unclear>sed</unclear> sunt minoris ponderis 
           <lb ed="#C"/>ideo transeo.
         </p>
-        <p>
-          "Sed differunt vestigium et imago, 6 quia de ratione vestigii est quod cau-
-          40 setur ab illo in specie cuius est vestigium" aliquo modo, sicut patet inductive
-          de vestigio bovis [et] de vestigio combustionis, et sic de similibus. Et hinc est
-          quod vestigium dicitur aliquid derelictum ex alio. "De ratione autem imaginis
-          non est quod causetur ab isto cuius est imago. Suflicit enim quod imago Herculis
-          ab alio causetur quam ab Hercule."
+        <p xml:id="awlsl1d3q5-advqah">
+          <pc type="#pilcrow"/>Sed differunt vestigium et ymago quia de ratione 
+          <lb ed="#C"/>vestigii est quod causetur ab illo in specie cuius est vestigium 
+          <lb ed="#C"/>alico modo sicut patet inductive de vestigio bovis <!--[et]--> de 
+          <lb ed="#C"/>vestigio combustionis et sic de similibus et hinc est quod 
+          <lb ed="#C"/>vestigium dicitur aliquid derelictum ex alio <pc type="#pilcrow"/>De ratione autem ymaginis
+          non est quod causetur ab isto cuius est ymago sufficit enim quod ymago her<lb ed="#C"/>culis
+          ab alio causetur quam ab hercule
         </p>
-        <p>Nota7 tamen quod strictissime seu propriissime - et non sic communiter,
-          ut prius - loquendo de imagine, de ratione imaginis est quod [ipsa sit] similitudo
-          expressa seu genita ab [eo] cuius est imago, sicut dicit Augustinus, De
-          83 quaestionibus, quaestione 74, 8 sicut ibi exemplificat: "Ut in speculo," inquit,
-          "est imago hominis, quia de illo expressa est; similiter de parentibus et filiis,
-          50 nam et de parente expressa est imago lilii ut recte dicatur imago. Et tamen
-          improprie etiam sumitur imago, sicut praeaccepi teste Magistro, libro II, dist.
-          16, cap. 2,9 ubi dicit pro quadam auctoritate Bedae super hoc, 10 quod Trinitas
-          improprie imago dicitur. Cuius causa est "quia imago," inquit, "relative ad
-          aliud dicitur, cuius similitudinem gerit et ad quod repraesentandum facta est·
-          sicut imago Caesaris, quae ipsius similitudinem praeferebat ipsumque quodam'.
-          modo repraesentabat." Haec ille.
-        
+        <p xml:id="awlsl1d3q5-ntqiqr">
+          <add place="margin-bottom">
+            nota tamen quod strictissime seu proprissime et non sic communiter ut prius loquendo de ymagine et ratione ymaginis est quod similitudo expressa seu genita ab cuius est ymago sicut dicit augustinus 
+            de 83 quaestionibus quaestione 74 sicut ibi exemplificat ut in speculo inquit est ymago hominis quia de illo expressa est similiter de parentibus et filiis nam et de parente expressa est ymago filii ut recte dicatur 
+            <lb ed="#C"/>imago et tamen proprie etiam sumitur ymago sicut praeaccepi teste magistro vel libro 2o dist 16, cap 2 ubi dicit pro quadam auctoritate bedae super hoc quod trinitas improprie ymago dicitur 
+            <lb ed="#C"/>cuius causa est quia imago inquit relative ad aliud dicitur cuius similitudinem gerit et ad quod repraesentandum facta est·sicut ymago caesaris quae ipsius similitudinem praeferebat ipsumque quodammodo repraesentabat haec ille
+          </add>
         </p>
-        <p>
-          Ex hac differe~tia se_quitur alia, quod vestigium ducit vel ducere potest
-          non ta~tum m not1t1arn mcomplexam recordativam illius cuius est, habitualiter
-          noti, sed eti~m _[in] incomplexas aliquas, et assensus sibi conformes aliquos,
-          1~ quorum consJmdes non potest sufli.cienter imago ducere. Verbi gratia vestigmm
-          bo:1s ~on tantum facit recordari de bove habitualiter noto, sed ducit
-          com".1~~1ter '.n credulita.tem c~nformem huic complexa contingenti 'bos hic
-          trans1vtt , et imago Petn non m hanc 'Petrus hic transivit' et huiusmodi. _
-          Vest1gm".1 autem et imago multipliciter accipiuntur, sicut patet in Ockham.11
+        <p xml:id="awlsl1d3q5-ehdspi">
+          <pc type="#pilcrow"/>Ex hac differentia 
+          <lb ed="#C"/>sequitur alia quod vestigium ducit vel ducere potest <unclear>non</unclear> tantum in 
+          <lb ed="#C"/>notitiam complexam recordativam illius cuius est habitualiter noti 
+          <lb ed="#C"/>sed etiam incomplexas aliquas et assensus sibi conformes aliquos in quorum 
+          <lb ed="#C"/>consimiles non potest sufficienter ymago ducere verbi gratia vestigium
+          <lb ed="#C"/>bovis non tantum facit recordari de bove habitualiter noto 
+          <lb ed="#C"/>sed ducit communiter <sic>incredulitatem</sic> conformem huic complexa contingenti 
+          bos hic transivit <pc type="#pilcrow"/> Si ymago petri non in hanc petrus 
+          <lb ed="#C"/>hic transivit et huiusmodi vestigium autem et ymago multipliciter accipiuntur 
+          <lb ed="#C"/>sicut patet in <name>hokam</name>
         </p>
-        <p>
-          Qual1ter autem ~~aelibet creatura potest aliquo modo dici vestigium Tri-
-          65
-          m_tat1s, pro quanta sc1hcet quaedarn in ea, sicut unitas, species vel ordo, possunt
-          ahquo mo~o ducere m. noti.tiarn a~~ropriatorum divinis personis incomplexam
-          rememorattvam, et et1am in not1t1am complexam contingentem, docet satis
-          bene Ockham, quaestione de vestigio, articula secundo, 12 et etiarn ibidem
-          in c_onclus'.onibus. In creatura consistit vestigium, quia aliquando in distinctis
-          70
-          reahter, al1quando in non distinctis realiter. Et similiter in quaestione de imagine,
-          ar_ticul~ sec~nd~ .. 13 Primo, ibi in opinione propria, docet quare in creatura
-          rat10nah mag1s dic1tur esse imago quam in aliqua alia creatura; et secundo
-          cons~q~en~er docet quomodo est "imago Dei imperfecta, 14 et quasi radicaliter
-          et o~ginahter consistit in ipsa anima secundum suam substantiam," sed "corn-
-          75
-          plet1ve perfectio imaginis consistit in ipsa substantia animae et duobus actibus
-          productis," respectu utriusque quorum anima habet foecunditatem· sed ad actum
-          volendi mediante actu intelligendi, qui cum substantia anima: et obiecto
-          comproducit actum volendi, et per consequens exprimit aninia cum illis actibus
-          ordmem et originem inter diversas personas.
+        <p xml:id="awlsl1d3q5-qaqndr">
+          <pc type="#pilcrow"/>qualiter autem quaelibet creatura potest alico modo dici 
+          <lb ed="#C"/>vestigium Trinitatis pro quanta scilicet quaedam in ea sicut unitas 
+          <lb ed="#C"/>species vel ordo possunt alico modo ducere in notitiam <unclear>appropriate</unclear> 
+          <lb ed="#C"/>divinis personis incomplexam rememorativam et etiam in notitiam 
+          <lb ed="#C"/>complexam contingentem docet satis bene <name>hokam</name> quaestione de vestigio 
+          <lb ed="#C"/>articulo 2o et etiam ibidem in conclusionibus in creatura consistit vestigium quia 
+          <lb ed="#C"/>aliquando in distinctis realiter aliquando in non distinctis realiter
+        </p>
+        <!-- mo para break in Wood -->
+        <p xml:id="awlsl1d3q5-esiidp">
+          et similiter 
+          <lb ed="#C"/>in quaestione de imagine articulo 2o primo ibi in opinione propria docet quare 
+          <lb ed="#C"/>in creatura rationali magis dicitur esse ymago quam in aliqua alia creatura 
+          <lb ed="#C"/>et secundo consequenter docet quomodo est imago dei imperfecta et quasi radicaliter 
+          <lb ed="#C"/>et originaliter consistit in ipsa anima secundum suam substantiam sed 
+          <lb ed="#C"/>completive perfectio ymaginis consistit in ipsa substantia animae 
+          <lb ed="#C"/>et duobus actibus productis respectu utriusque quorum anima habet 
+          <lb ed="#C"/>fecunditatem sed ad actum volendi mediante actu intelligendi qui 
+          <lb ed="#C"/>cum substantia anima et obiecto comproducit actum volendi et per consequens 
+          <lb ed="#C"/>exprimit anima cum illis actibus ordinem et originem inter 
+          <lb ed="#C"/>diversas personas
         </p>
         <p>
           Quod autem actus volendi sit effective ab actu intelligendi, probat et bene.1s

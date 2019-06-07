@@ -51,9 +51,21 @@
       <p xml:id="awlsl1d3q5-aeppit">
         <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-aeppit"/>
       </p>
-        
-      
-      
+      <p xml:id="awlsl1d3q5-advqah">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-advqah"/>
+      </p>
+      <p xml:id="awlsl1d3q5-ntqiqr">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-ntqiqr"/>
+      </p>
+      <p xml:id="awlsl1d3q5-ehdspi">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-ehdspi"/>
+      </p>
+      <p xml:id="awlsl1d3q5-qaqndr">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-qaqndr"/>
+      </p>
+      <p xml:id="awlsl1d3q5-esiidp">
+        <assertion property="isRelatedTo" target="http://scta.info/resource/b1d3qun-esiidp"/>
+      </p>
     </div>
   </body>
 </info>
