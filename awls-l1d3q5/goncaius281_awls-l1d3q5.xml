@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +49,7 @@
     </front>
     <body>
       <div xml:id="awls-l1d3q5">
-        <head>Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</head>
+        <head xml:id="awls-l1d3q5-Hd1e97">Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</head>
         <p xml:id="awlsl1d3q5-cdtvet">
           <lb ed="#C" n="12"/>Iuxta lectionem circa principium secundi continuando materiam 
           <lb ed="#C"/>primi qui est de deo et sancta trinitate et specialiter tertiae distinctionis 
@@ -64,31 +61,31 @@
         </p>
         <p xml:id="awlsl1d3q5-qnveid">
           <pc type="#pilcrow"/> quod non 
-          <lb ed="#C"/>videtur quia secundum <ref><name ref="#Augustine">beatum augustinum</name> in <title>sermone communi</title></ref> <quote>si servasset 
+          <lb ed="#C"/>videtur quia secundum <ref xml:id="awls-l1d3q5-Rd1e124"><name ref="#Augustine">beatum augustinum</name> in <title>sermone communi</title></ref> <quote xml:id="awls-l1d3q5-Qd1e131">si servasset 
           <lb ed="#C"/>in se bonum quod in isto creavit deus id est ymagine suam 
           <lb ed="#C"/>semper laudaret deum non solum lingua <unclear>sed <!-- si? --></unclear> et <sic>via</sic></quote> 
           <lb ed="#C"/><unclear>sibi <!-- G has "igitur" --></unclear> ex opposito non sic laudat igitur non servavit in se bonum 
           <lb ed="#C"/>quod est ymago igitur homo non est ymago dei etc
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e153">
           <pc type="#pilcrow"/>praeterea si sic 
           <lb ed="#C"/>in quo consistere ymago aut in substantia animae et hoc non quia illa non 
           <lb ed="#C"/>repraesentat distinctionem personarum <pc type="virgula">/</pc> aut in actibus elicitis et hoc 
           <lb ed="#C"/>non quia illi non sunt consubstantiales
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e167">
           <pc type="#pilcrow"/> Item quod in aliis creaturis 
           <lb ed="#C"/>non sit vestigium trinitatis  videtur sic quia vestigium ducit 
           <lb ed="#C"/>in notitiam illius cuius est <pc type="virgula">/</pc> Sed nihil in creatura ducit in notitiam
           <lb ed="#C"/>trinitatis cum in creaturis nulla una res sit tres res
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e182">
           <pc type="#pilcrow"/>Ad 
           <lb ed="#C"/>oppositum sunt auctoritates genesis et augustini allegatae in collatione quo<lb ed="#C"/>ad 
           imaginem et aliae multae tam quoad imaginem quam quo 
           ad vestigium quas adducit <name>magister</name> in littera distinctione 3ae primi
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e194">
           <pc type="#pilcrow"/> In 
           <lb ed="#C"/>ista quaestione est conclusio certa quod sic <pc type="#pilcrow"/> Sed videndum est primo in quibus 
           <lb ed="#C"/>et qualiter sit in creaturis vestigium trinitatis vel in homine 
@@ -96,11 +93,11 @@
           solventur
         </p>
         <!-- extra chunck erroneosly inserted that belows below -->
-        <p>
+        <p xml:id="awls-l1d3q5-d1e213">
           nota tamen quod strictissime seu propriissime et non sic communiter,
           <lb ed="#C"/>loquendo ut prius de ymagine de ratione ymaginis est quod ipsa sit similitudo
           <lb ed="#C"/>expressa seu genita ab eo] cuius est ymago sicut dicit augustinus de 83 
-          <lb ed="#C"/>quaestionibus quaestione 74 <!-- 74, q. 8 --> sicut ibi exemplificat <quote>ut in speculo inquit est ymago hominis 
+          <lb ed="#C"/>quaestionibus quaestione 74 <!-- 74, q. 8 --> sicut ibi exemplificat <quote xml:id="awls-l1d3q5-Qd1e223">ut in speculo inquit est ymago hominis 
           <lb ed="#C"/>quia de illo expressa est similitudo filii ut recte dicatur ymago 
           <lb ed="#C"/>et tamen <sic>proprie</sic> etiam sumitur ymago sicut praeaccepi teste</quote>
         </p>
@@ -145,7 +142,7 @@
         <p xml:id="awlsl1d3q5-eseqda">
           <pc type="#pilcrow"/>Et sicut est 
           <lb ed="#C"/>de ymagine herculis respectu rememorationis herculis ita est de 
-          <lb ed="#C"/>vestigio quod <quote>si aliquis videat vestigium bovis recor<lb ed="#C"/>dabitur</quote> 
+          <lb ed="#C"/>vestigio quod <quote xml:id="awls-l1d3q5-Qd1e361">si aliquis videat vestigium bovis recor<lb ed="#C"/>dabitur</quote> 
           de bove habitualiter cognito sed si nunquam prius habuisset 
           <lb ed="#C"/>aliquam notitiam de bove non plus recordaretur sui apud 
           <lb ed="#C"/>istum quam de asino
@@ -238,7 +235,7 @@
           <lb ed="#C"/>substantiam animae et istos actus nulla est consubstantialitas igitur etc
         </p>
         <p xml:id="awlsl1d3q5-tisine">
-          <pc type="#pilcrow"/>Item ut supra secundum <ref>beatum augustinum 14 de trinitate cap 3 et de magnis</ref> ymago 
+          <pc type="#pilcrow"/>Item ut supra secundum <ref xml:id="awls-l1d3q5-Rd1e583">beatum augustinum 14 de trinitate cap 3 et de magnis</ref> ymago 
           <lb ed="#C"/>dei in creatura rationali est immortalis sed isti actus secundi 
           <lb ed="#C"/>non sunt immortales nec incorruptibiles igitur
         </p>
@@ -255,24 +252,25 @@
           etiam si trinitas possit non tamen imago dei inveniri 
           <lb ed="#C"/>potest
         </p>
-        <p>
+        <!-- new parallel ids adde d-->
+        <p xml:id="awlsl1d3q5-qqscie">
           Quinto quia eadem ratione in parte sensitiva esset ymago 
           <lb ed="#C"/>trinitatis nam etiam ibi substantia animae cum obiecto principat cognitionem et cum 
           <lb ed="#C"/>congruere actum apprehendi sensitvum ibi igitur aequae est originatio et ordo 
           <lb ed="#C"/>conformis trinitati sicut in intellectu dato quod sic sit assignanda 
           <lb ed="#C"/>ratio ymaginis consequens non concedatur igitur etc.
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-rapaoe">
           <pc type="#pilcrow"/>Ad primum verum est quod 
           <lb ed="#C"/>ad salvandum rationem ymaginis in mente rationali aliqui ponunt aliquam 
           <lb ed="#C"/>distinctionem vel non ydentitatem inter substantiam animae et intellectum 
-          <lb ed="#C"/>et voluntatem sicut <ref><name>scotus</name> in secundo distinctione 16</ref>. Sed per eundum ibi nulla 
+          <lb ed="#C"/>et voluntatem sicut <ref xml:id="awls-l1d3q5-Rd1e642"><name>scotus</name> in secundo distinctione 16</ref>. Sed per eundum ibi nulla 
           <lb ed="#C"/>ratio potest talem distinctionem ibi probare efficaciter ut supra tetigi ultra 
           <lb ed="#C"/>quaestione primae distinctionis ad salvandum ymaginem videtur mihi hoc necessarium quia et si 
           <lb ed="#C"/>plures potentiae essent idem realiter non salvaretur inter illas 
           <lb ed="#C"/>potentias aliqua originatio etc.
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-sqeesa">
           Sed quia ego non tenebo talem 
           <lb ed="#C"/>distinctionem ibi inter potentias animae <pc type="#pilcrow"/>Do cum doctore subtili 
           <lb ed="#C"/>et magistro in littera in ista distinctione tertia quod non potet in nobis 
@@ -286,18 +284,18 @@
           de isto in quo tantum principiative et virtualiter consistit 
           <lb ed="#C"/>ratio ymaginis cuiusmodi est substantia animae
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e689">
           <pc type="#pilcrow"/>Dices beatus augustinus semper 
           <lb ed="#C"/>expressit ymaginem per alica distincta sicut 9 de trinitate per mentem notitiam 
           <lb ed="#C"/>et amorem et <unclear>Xmo</unclear> et deinceps per memoriam 
           <lb ed="#C"/>intelligentiam et voluntatem quarum secunda est subtilior et evidentior 
           <lb ed="#C"/>assignatio ymaginis quam prima per eundem beatum augustinum 15 cap 3
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e706">
           <lb ed="#C"/><pc type="#pilcrow"/> Ad istud satis bene respondet <name>hokam</name> quaestione de imagine 
           <lb ed="#C"/>secundo articulo responsionis proprie in solutione secundi dubii principalis
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-asdssa">
           <lb ed="#C"/>Ad 
           <lb ed="#C"/>2m dico quod in consubstantialitate deficit ymago a trinitate personarum inter 
           <lb ed="#C"/>quas est consubstantialitas verum est tamen quod <unclear>aliqua<!-- alia?? --></unclear> possunt haberi signa 
@@ -311,7 +309,7 @@
           <lb ed="#C"/>invicem quod non esset nisi significarent aliqua distincta quae non sunt 
           <lb ed="#C"/>substantia animae
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-atdmiv">
           <pc type="#pilcrow"/>unde secundum beatum augustinum eo ymago quo capax dei 
           <lb ed="#C"/>capax est autem dei mediante intellectione et dilectione dei et 
           <lb ed="#C"/>ideo eo ymago quo intellectiva et dilectiva dei et hic exprimuntur 
@@ -323,7 +321,7 @@
           <lb ed="#C"/>manente sit talis qualis exprimitur esse cum dicitur esse 
           <lb ed="#C"/>memoria intelligentia voluntas
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-aqbiao">
           <pc type="#pilcrow"/>Ad quartum bene respondet <name>scotus</name> 
           <lb ed="#C"/>quod respectu dei ut obiecti habetur in mente creata ultima et perfectissima 
           <lb ed="#C"/>ratio ymaginis quia tunc illa tria non solum sunt expressiva similitudo 
@@ -336,7 +334,7 @@
           correspondens quodammodo in mente trinitati subiectivae quod non contingit 
           <lb ed="#C"/>in aliis obiectis.
         </p>
-        <p>
+        <p xml:id="awlsl1d3q5-aqetis">
           <pc type="#pilcrow"/>Ex eodem patet ad quintum quod perfectissima 
           <lb ed="#C"/>ratio ymaginis possibilis haberi in creatura respectu trinitatis non est in sensitiva 
           <lb ed="#C"/>et actibus sensitivis quia illi actus non possunt habere deum 
@@ -348,18 +346,18 @@
           <lb ed="#C"/>de brutis ubi tale actus sunt formae extensae et ideo est imperfectior 
           <lb ed="#C"/>similitudo ad trinitatem increatam simplicissimam
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e847">
           <pc type="#pilcrow"/>Aliter tamen respondet <name>scotus</name> 
-          <lb ed="#C"/>quod <quote>in parte sensitiva non est ymago dei quia non est ibi consubstantialitas o<lb ed="#C"/>perantis 
+          <lb ed="#C"/>quod <quote xml:id="awls-l1d3q5-Qd1e856">in parte sensitiva non est ymago dei quia non est ibi consubstantialitas o<lb ed="#C"/>perantis 
           vel operantium quia principium sentiendi non est tantum aliquid animae 
-          <lb ed="#C"/>sed aliquid compositum ex anima et parte <sic>corporis<!-- wood has "corpus" --></sic> sic mixta</quote> <quote>similiter 
+          <lb ed="#C"/>sed aliquid compositum ex anima et parte <sic>corporis<!-- wood has "corpus" --></sic> sic mixta</quote> <quote xml:id="awls-l1d3q5-Qd1e867">similiter 
           <lb ed="#C"/>principium actus appetendi sensitivi non est aliquid animae tantum sed compositum</quote> 
-          <lb ed="#C"/>unde sicut notat extra manu sua <quote>proxima ratio recipiendi sensationem non est 
+          <lb ed="#C"/>unde sicut notat extra manu sua <quote xml:id="awls-l1d3q5-Qd1e875">proxima ratio recipiendi sensationem non est 
           <lb ed="#C"/>aliqua entitas simplex neque scilicet aliquid animae neque etiam <unclear>corpus</unclear> sic mixtum
           <lb ed="#C"/>sed forma totius organi quae dicitur <mentioned>forma</mentioned> sicut quidditas est forma 
           <lb ed="#C"/>suppositi non autem ut forma informans</quote> haec ille
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e891">
           <pc type="#pilcrow"/>ista responsio 
           <lb ed="#C"/>est multum probabilis et pulcra et ad quam citius declinarem 
           <lb ed="#C"/>post illam quam tenui quaestione prima prologi <pc type="#pilcrow"/>licet autem non ponam 
@@ -369,15 +367,15 @@
           <lb ed="#C"/>in intellectu vel voluntate dicerem quod omnis actus humanus vitalis esset 
           <lb ed="#C"/>intellectivus vel volitivus
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e913">
           ideo posset esse dubium hoc dicere volenti 
           <lb ed="#C"/>quia ad placitum esset cum non variaret in re ab opinione 
           <lb ed="#C"/>quam teneo sed in loquendo tantum an talis posset in anima nostra salvare 
           <lb ed="#C"/>rationem ymaginis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e922">
           et probant aliqui quod non qui tamen rem eandem tenent primo 
-          <lb ed="#C"/>quia sequeretur quod <quote>eadem anima indivisibilis simul posset velle et nolle
+          <lb ed="#C"/>quia sequeretur quod <quote xml:id="awls-l1d3q5-Qd1e926">eadem anima indivisibilis simul posset velle et nolle
           <lb ed="#C"/>idem efficaciter consequens falsum quia tunc contraria simul in eodem <pc type="#pilcrow"/>probatio consequentiae 
           <lb ed="#C"/>nam illud idem quod appetitu <del rend="expunctuation">s</del> sensitivo efficaciter et ultimate appetimus 
           <lb ed="#C"/>possumus simul nolle illud</quote> igitur si idem appetere appetitus sensitivi esset velle 
@@ -387,25 +385,25 @@
           <lb ed="#C"/>plus anima simul velle et nolle idem quam assentire et dissentire 
           <lb ed="#C"/>eidem simul Sed illud est impossibile igitur <!-- wood has closing quotation mark here, but it doesn't correspond to an opening quotation -->
         </p>
-        <p>
-          <pc type="#pilcrow"/><quote>Item tunc anima simul posset 
+        <p xml:id="awls-l1d3q5-d1e960">
+          <pc type="#pilcrow"/><quote xml:id="awls-l1d3q5-Qd1e963">Item tunc anima simul posset 
           <lb ed="#C"/>velle aliquid et tamen simul efficaciter nolle se velle idem quia certum 
           <lb ed="#C"/>est quod simul potest appetitus sensitivus efficaciter aliquid appetere et tamen simul 
           <lb ed="#C"/>potest homo efficaciter nolle se appetere illud</quote> sic
         </p>
-        <p>
-          <pc type="#pilcrow"/><quote>Item tunc omnis 
+        <p xml:id="awls-l1d3q5-d1e973">
+          <pc type="#pilcrow"/><quote xml:id="awls-l1d3q5-Qd1e976">Item tunc omnis 
           <lb ed="#C"/>passio timoris in christo esset quoddam nolle et hoc ultimatum et 
           <lb ed="#C"/>efficax nolle et tamen certum est quod simul potuit velle vel
           <lb ed="#C"/>de facto voluit efficaciter illud quod timebat ultimate ti<lb ed="#C"/>more 
           appetitus sensitivi igitur idem simul efficaciter voluit et noluit</quote> 
           <lb ed="#C"/>quod videtur absurdum
         </p>
-        <p>
-          <pc type="#pilcrow"/><quote>Item isti nihil reale dicunt sed variant 
+        <p xml:id="awls-l1d3q5-d1e990">
+          <pc type="#pilcrow"/><quote xml:id="awls-l1d3q5-Qd1e993">Item isti nihil reale dicunt sed variant 
           <lb ed="#C"/>in significato vocabuli</quote> etc
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e999">
           <pc type="#pilcrow"/>Ad ista respondeo secundum veritatem melius est 
           <lb ed="#C"/>dicere quod non omnis actus cognitivus humanus est intellectio nec omnis 
           <lb ed="#C"/>appetitivus actus volitio vel nolitio nec sequitur recipitur in intellectu 
@@ -419,15 +417,15 @@
           <lb ed="#C"/>concedendum esset quod eadem anima simul posset idem velle et nolle 
           <lb ed="#C"/>per te quod idem obiectum penitus posset anima diligere actu volitivo et de 
           <lb ed="#C"/>testari actu sensitivo vel econverso quomodo autem sit de hoc secundum veritatem
-          <lb ed="#C"/>dixi in <ref>prima quaestione prologi</ref> illud quod sensi in absolutione quartae obiectionis
+          <lb ed="#C"/>dixi in <ref xml:id="awls-l1d3q5-Rd1e1031">prima quaestione prologi</ref> illud quod sensi in absolutione quartae obiectionis
           <lb ed="#C"/>contra primam conclusionem
         </p>
-        <p>
-          <pc type="#pilcrow"/>Et cum <add place="above-line">dicis</add> <quote>tunc contraria simul</quote> non sequitur quia etiam
+        <p xml:id="awls-l1d3q5-d1e1037">
+          <pc type="#pilcrow"/>Et cum <add place="above-line">dicis</add> <quote xml:id="awls-l1d3q5-Qd1e1044">tunc contraria simul</quote> non sequitur quia etiam
           <lb ed="#C"/>secundum te illi actus non sunt contrarii formaliter licet persecutiones in quas 
           <lb ed="#C"/>inclinant sint contrariae
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1052">
           <pc type="#pilcrow"/>Dices quod sic ex quo sunt velle 
           <lb ed="#C"/>et nolle dicendum quod non sunt velle et nolle contraria sicut nec bonum 
           <lb ed="#C"/>et malum dicta de eodem actu numero bono <sic>naturaliter<!-- not present in wood --></sic> et malo 
@@ -439,7 +437,7 @@
           <lb ed="#C"/>sensitivum in anima humana sibi contrarium sed illud velle esset alterius 
           <lb ed="#C"/>rationis ab isto velle quod conceditur simul stare cum tali nolle
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1081">
           <pc type="#pilcrow"/>rationes 
           <lb ed="#C"/>igitur istius cum ipsemet teneat rem tantum habent colorem vocalem de contrarietate 
           <lb ed="#C"/>velle et nolle qualem haberent illi qui probarent idem simul esse 
@@ -448,21 +446,21 @@
           <lb ed="#C"/>in eodem quia unus actus bonus moraliter puta in materia temperantiae et alius malus 
           <lb ed="#C"/>moraliter in materia fortitudinis simul starent in anima quod nihil est
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1099">
           <pc type="#pilcrow"/>per hoc patet 
           <lb ed="#C"/>ad primum <pc type="#pilcrow"/>dicendum enim quod idem velle et nolle non sunt contraria velle 
           <lb ed="#C"/>et nolle saltem non formaliter licet inclinent forte ad persecutiones 
           <lb ed="#C"/>contrarias unde concedo quod velle et nolle contraria non possent simul 
           <lb ed="#C"/>plus stare in anima quam assentire et dissentire eidem non sunt autem
           <lb ed="#C"/>contraria vel propter tactam causam vel quia non habent praecise idem pro obiecto 
-          <lb ed="#C"/>ut in <quote>quaestione prima prologi</quote> fuit declaratum per idem ad alia duo
+          <lb ed="#C"/>ut in <quote xml:id="awls-l1d3q5-Qd1e1118">quaestione prima prologi</quote> fuit declaratum per idem ad alia duo
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1122">
           <pc type="#pilcrow"/>secundum 
           <lb ed="#C"/>dubium est contra illud quod dictum est intellectionem et dilectionem quae sunt partes 
           <lb ed="#C"/>ymaginis esse accidentia realiter distincta ab anima
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1131">
           contra primo quia tunc 
           <lb ed="#C"/>anima in momento haberet cognitionem infinitam de quocumque obiecto quod 
           <lb ed="#C"/>intelligeret quia habens cognitionem cuiuscumque obiecti eo ipso disponitur ad 
@@ -470,7 +468,7 @@
           <lb ed="#C"/>ad maiorem et sic in infinitum ponatur quod cetera sint paria igitur in fine 
           <lb ed="#C"/>parvi temporis habebit infinitam
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1144">
           <pc type="#pilcrow"/>Item tunc aliqua intellectio in anima esset 
           <pb ed="#C" n="175-r"/>
           <lb ed="#C" n="b"/>
@@ -478,12 +476,12 @@
           <lb ed="#C"/>magis <unclear>firmatur</unclear> quam in uno et in tribus magis quam in duobus igitur in infinitum
           et infinite
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1158">
           <pc type="#pilcrow"/>Item tunc posset habere infinitas intentiones superadditas 
           <lb ed="#C"/>sibi ex quo potest habere infinita obiecta et non est maior ratio quod 
           <lb ed="#C"/>respectu unius obiecti habeat intellectionem sibi superadditam quam respectu alterius
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1168">
           <lb ed="#C"/><pc type="#pilcrow"/> Item non videretur tune quomodo posset corrumpi aliqua intellectio nec enim 
           <lb ed="#C"/>per infirmitatem nec per oblivionem nec aliter quia nihil videretur 
           <lb ed="#C"/>sibi tantum repugnare sicut intellectio sui contrarii sed illae bene compatiuntur
@@ -491,8 +489,8 @@
           <lb ed="#C"/>quo istae generaliter compatiuntur se in anima non videtur qualiter corrum<lb ed="#C"/>pi 
           possit per naturam habitus vel species vel aliquod accidens animae
         </p>
-        <p>
-          <lb ed="#C"/><pc type="#pilcrow"/> Sed contrarium huius tenui <ref>distinctione prima</ref> et ideo ad primum <unclear>istarum<!-- wood has "istarum" --></unclear>
+        <p xml:id="awls-l1d3q5-d1e1188">
+          <lb ed="#C"/><pc type="#pilcrow"/> Sed contrarium huius tenui <ref xml:id="awls-l1d3q5-Rd1e1193">distinctione prima</ref> et ideo ad primum <unclear>istarum<!-- wood has "istarum" --></unclear>
           <lb ed="#C"/>respondeo non concedendo conclusionem sicut aliqui faciunt licet negare 
           <lb ed="#C"/>illud nolim ex quo vellent conclusionem verificari scilicet quod respectu huius obiecti 
           <lb ed="#C"/>possit haberi cognitio perfectior qualibet quarundam infinitarum puta 
@@ -507,7 +505,7 @@
           <lb ed="#C"/>infinitae homo esset nobilior natura qualibet istarum infinitarum et
           <lb ed="#C"/>tamen in minima iota nihil plus haberet tunc quam modo
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1232">
           <pc type="#pilcrow"/>Dico quod ista 
           <lb ed="#C"/>deductio non probat hominem esse infinitae perfectionis nec esse infinitum 
           <lb ed="#C"/>nisi noviter instituendo vocabulum <mentioned>infiniti</mentioned> per quam institutionem nulli in 
@@ -521,7 +519,7 @@
           <lb ed="#C"/>in infinitis non secundum partes eiusdem magnitudinis semper minoris et 
           <lb ed="#C"/>minoris
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1269">
           Aliter igitur respondeo primam enim consequentiam ego nego et ad probationem 
           <lb ed="#C"/>dico quod si cetera sunt paria sicut accipit argumentum subito 
           causabitur et in primo instanti tanta notitia quanta est causabilis a 
@@ -537,7 +535,7 @@
           <lb ed="#C"/>talis dispositio foret actus ita perfectus sicut si per centum annos omnia
           <lb ed="#C"/>ista concurrentia pariter se haberent.
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1302">
           <pc type="#pilcrow"/>De multis tamen receptivis 
           <lb ed="#C"/>quarumdam formarum naturalium non est sic sed successive inducuntur quaedam 
           <lb ed="#C"/>earum et quid sit in causa alias forte declarabitur in proposito autem 
@@ -545,7 +543,7 @@
           <lb ed="#C"/>sibi formaliter nec virtualiter non sic in aliis ubi forma sucessive producitur ab activa 
           <lb ed="#C"/>mere naturali
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1318">
           <pc type="#pilcrow"/>Ad secundum illud procedit ex ymaginatione falsa opinantur enim illi
           <lb ed="#C"/>quorum est argumentum quod actus et habitus et species idem sunt realiter licet 
           <lb ed="#C"/>propter aliam et aliam causam sic et sic <unclear>vocetur <!-- wood has "vocentur" --></unclear> ego autem qui hoc non pono
@@ -553,7 +551,7 @@
           <lb ed="#C"/>dico quod actus in primo instanti est tantae firmitatis sicut unquam erit quantumcumque 
           <lb ed="#C"/>diu stet in potentia saltem non habituali
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1339">
           <pc type="#pilcrow"/>de potentia tamen 
           <lb ed="#C"/>habituali esset maior difficultas quia ibi primus actus causat habitum 
           <lb ed="#C"/>vel inchoat <pc type="virgula">/</pc> habitus autem sicut inclinat in actum eliciendum <unclear>ita <!-- kind of looks like "nec" --></unclear> 
@@ -561,7 +559,7 @@
           <lb ed="#C"/>plus intensus vel diutius conservatus plus intendit habitum vel 
           <lb ed="#C"/>dispositionem ad habitum et sic deinceps ut videtur
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1362">
           <pc type="#pilcrow"/>Praeterea etiam 
           <lb ed="#C"/><unclear>dato <!-- Wood had "data" --></unclear> quod actus non plus intenderetur sed permaneret tantum in eodem 
           <lb ed="#C"/>gradu perfectionis adhuc videretur quod si per modicum tempus staret 
@@ -574,14 +572,14 @@
           <lb ed="#C"/>temporis quantumcumque parvi et infinita aequalia quantumcumque parva 
           <lb ed="#C"/>facientia unum constituunt infinitum igitur etc
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1400">
           <pc type="#pilcrow"/>praeterea et istud 
           <lb ed="#C"/>reducit contra responsionem ad argumentum praecedens <pc type="virgula">/</pc> primus actus 
           <lb ed="#C"/>habituat vel disponit potentiam ad similem actum sed 
           <lb ed="#C"/>potentia habituata ceteris paribus <pc type="#punctus"/> potest in actum perfectiorem 
           <lb ed="#C"/>quam non habituata igitur ceteris paribus statim habebitur actus 
           <lb ed="#C"/>perfectior quam prius et si actus perfectior crescit habitus et crescente 
-          <lb ed="#C"/>habitu crescet ibi actus et sic in infinitum sicut exemplificat <ref target="http://scta.info/resource/aristneth-l2"><name>philosophus</name> <title>ethicorum</title></ref> 
+          <lb ed="#C"/>habitu crescet ibi actus et sic in infinitum sicut exemplificat <ref xml:id="awls-l1d3q5-Rd1e1422" target="http://scta.info/resource/aristneth-l2"><name>philosophus</name> <title>ethicorum</title></ref> 
           <lb ed="#C"/>quod ex cibum sumere <sic>ffit</sic> homo <sic>ffortior</sic> et <sic>ffortior</sic> potest plus 
           <lb ed="#C"/>cibum sumere etc igitur stat primum argumentum quod quaelibet cognitio respectu 
           <lb ed="#C"/>cuiuscumque obiecti disponit ad cognitionem perfectiorem <pc type="virgula">/</pc> disponit 
@@ -589,7 +587,7 @@
           <lb ed="#C"/>perfectiorem actum immo exiet in perfectiorem cunctae concurrentes 
           <lb ed="#C"/>sunt naturales et ita stat argumentum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1456">
           <pc type="#pilcrow"/>Ad primum istorum ab 
           <lb ed="#C"/>isto qui ponit habitum distinctum ab actu sicut ego facio 
           <lb ed="#C"/>non potest rationabiliter negari quin primus causet habitum vel dis<lb ed="#C"/>ponat 
@@ -597,7 +595,7 @@
           <lb ed="#C"/>habitus et imperfectior quia sunt formae eiusdem speciei <pc type="virgula">/</pc> prima 
           <lb ed="#C"/>igitur propositio accepta concedatur
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1475">
           <pc type="#pilcrow"/>Sed ad secundam propositionem dico 
           <lb ed="#C"/>quod licet habitus sicut inclinat ad actum eliciendum ita in<lb ed="#C"/>clinaret 
           ad istum actum continuandum qui ipso mediante elicitur 
@@ -609,24 +607,24 @@
           <lb ed="#C"/>conservare actum per quem ille habitus generatur quia ille habitus 
           <lb ed="#C"/>habuit similem aliam causam numero <pc type="#punctus"/> immo aliam specie loquendo de primo actu
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1504">
           <lb ed="#C"/><pc type="#pilcrow"/>Dices quod primus actus causat habitum vel dispositionem licet ille 
           <lb ed="#C"/>habitus non possit conservare primum actum sed tantum illae causae possunt 
           <lb ed="#C"/>naturaliter istum conservare quae ilium causabant tamen habitus causatus a primo
           <lb ed="#C"/>actu poterit intendere secundum actum et ille habitus et sic de<lb ed="#C"/>inceps
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1519">
           <pc type="#pilcrow"/>Item hoc non vitat quin actus diutius conservatus 
           <lb ed="#C"/>plus intendat habitum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1526">
           <pc type="#pilcrow"/>Item illud dictum de conservatione 
           <lb ed="#C"/>non videtur verum quia locus naturalis conservat rem active non 
           <lb ed="#C"/>obstante quod non produxerit eam et alimentum conservat animal <pc type="virgula">/</pc> et 
           <lb ed="#C"/>medicina conservat vitam quam non causavit et ita de multis 
           <lb ed="#C"/>aliis instantiis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1543">
           <pc type="#pilcrow"/>Dicendum ad primum istorum primo quod non oportet quod habitus 
           <lb ed="#C"/>causatus a primo actu regulariter istum actum intendat et ratio 
           <lb ed="#C"/>similis est hic assignanda pro causa illi quae assignaretur quare non
@@ -667,7 +665,7 @@
           <lb ed="#C"/>et non solum arguitive cognoscere talem habere hoc autem non potest stante 
           <lb ed="#C"/>actu intuitivo sive volitivo sive praecise cognitivo igitur.
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1676">
           <pc type="virgula">/</pc> sed 
           <lb ed="#C"/>quia ista modo non <unclear>habent <!-- could be "habet" --></unclear> locum nisi de actu primo quem concomitatur
           <lb ed="#C"/>communiter actus alterius rationis quo mediante sic perceptibiliter 
@@ -675,7 +673,7 @@
           <lb ed="#C"/>quos non concomitantur intuitiones vel huiusmodi impedimenta 
           <lb ed="#C"/>quare habitus intendere non debeat actum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1697">
           <pc type="#pilcrow"/>Fiat igitur 
           <lb ed="#C"/>sermo de actu <choice><orig>alico</orig><reg>aliquo</reg></choice> elicito mediante habitu ubi non concurrit
           <lb ed="#C"/>talis visio et stat argumentum quia notitia actualis rosae non causata 
@@ -684,7 +682,7 @@
           <lb ed="#C"/>intendit istum actum priorem et sic deinceps ut videtur 
           <lb ed="#C"/>igitur
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1721">
           <pc type="#pilcrow"/>Dicendum absque haesitatione quod notitia actualis rosae 
           <lb ed="#C"/>causata mediante habituali eiusdem intendit istum habitum 
           <lb ed="#C"/><pc type="#pilcrow"/>sed ulterius posset dici vel quod <sic>fforte</sic> gradus additus et 
@@ -704,7 +702,7 @@
           <lb ed="#C"/>causam huius
         </p>
         <!-- why paragraph break here -->
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1768">
           <lb ed="#C"/>Vel potest aliter dici et ista responsio est generaliter 
           <lb ed="#C"/>tam in primo casu quam in isto si istud quod nunc 
           <lb ed="#C"/>dixi non sit verum quod licet habitus intendat actum et e converso 
@@ -716,7 +714,7 @@
           <lb ed="#C"/>in generatione habitus sed non econverso quia habitus nec est causa totalis
           actus nec praeponderans sed potentia
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1792">
           <pc type="#pilcrow"/>Ymaginandum est igitur quod 
           <lb ed="#C"/>ceteris paribus potentia habens actum et habitum ab isto immediate 
           <lb ed="#C"/>causatum cum a habitu non potest elicere stante priori actu 
@@ -732,7 +730,7 @@
           <lb ed="#C"/>licet per unum alium actum alias elicitum mediante totali
           <lb ed="#C"/>habitu crescit vel crescere possit cremento sensibiliori
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1845">
           <pc type="#pilcrow"/>Secundo 
           <lb ed="#C"/>etiam ymaginandum est quod dato quod producitur cum habitu posset in actum 
           <lb ed="#C"/>aequalem illi quo mediante causabatur habitus quia tamen potentia praepon<lb ed="#C"/>derat 
@@ -744,13 +742,13 @@
           <lb ed="#C"/>vel nullam et tunc ultra iuxta priorem ymaginationem sed prior 
           <lb ed="#C"/>ymaginatio videtur sensibilior
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1869">
           <pc type="#pilcrow"/>Ad secundam obiectionem supra dico 
           <lb ed="#C"/>quod actus diutius conservatus non plus intendit habitum quam 
           <lb ed="#C"/>in primo instanti quia tunc subito facit quantum unquam per se facere 
           <lb ed="#C"/>poterit sicut exemplificatum est de sole illuminante medium
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1880">
           <lb ed="#C"/><pc type="#pilcrow"/>Ad tertiam dicendum quod conservatio activa potest dupliciter accipi uno modo 
           <lb ed="#C"/>pro activa manutenentia et continuatione alicuius effectus sicut 
           <lb ed="#C"/>sol conservat radium suum vel intellectus actum suum 
@@ -760,24 +758,24 @@
           <lb ed="#C"/>corruptionis activae activorum extrinsecorum et <unclear>haec <!-- wood has "hic" --></unclear> de sic dicta 
           <lb ed="#C"/>conservatione activa procedunt instantiae
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1905">
           <pc type="#pilcrow"/>Ad secundam instantiam et etiam tertiam 
           contra primam responsionem ad secundum principale argumentum huius dubii patet per idem
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1911">
           <lb ed="#C"/><pc type="#pilcrow"/> Ad tertiam principalem instantiam potest dici vel quod obiecta infinita distincta 
           <lb ed="#C"/>et non facientia unum esse simul vel successive nisi in accipiendo non autem 
           <lb ed="#C"/>accepta esse est impossibile vel si hoc esset possibile non tamen anima posset 
           <lb ed="#C"/>distinctas intellectiones omnium infinitorum talium simul recipere vel posset dici 
           <lb ed="#C"/>quod conclusio non est forte inconveniens sicut multi concedunt scribentes
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1925">
           <pc type="#pilcrow"/>Sed 
           <lb ed="#C"/>quid determinate sit circa hoc sentiendum dicetur forte in tertio in 
           <lb ed="#C"/>ista difficultate an anima christi novit in verbo omnia quae novit 
           <lb ed="#C"/>verbum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1936">
           <pc type="#pilcrow"/>Ad quartum videretur prima <sic>ffacie</sic> quod illi qui ponerent quod in<lb ed="#C"/>tellectio
           et volitio non essent accidentia distincta ab anima magis 
           <lb ed="#C"/>haberent ponere quod intelligere et velle essent incorruptibilia quam qui ponit 
@@ -792,14 +790,14 @@
           <lb ed="#C"/>ut frequenter tactum est sicut contradictio est albedinem informare 
           <lb ed="#C"/>aliquod subiectum adaequatum et illud subiectum non esse album
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1970">
           <pc type="#pilcrow"/>quid igitur dicitur 
           <lb ed="#C"/>uno modo sic quod omnia quae sunt in mente dependent 
           <lb ed="#C"/>a positiva conservatione puta quod conservantur per exercitium ac<lb ed="#C"/>tuum
           et ideo quando deficit conservans cessant species in anima 
           <lb ed="#C"/>non obstante quod non sit aliquid contrarium positive corrumpens
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e1983">
           <pc type="#pilcrow"/>sed 
           <lb ed="#C"/>huius dicti nulla apparet ratio immo videtur esse contra omnem rationem quia 
           <lb ed="#C"/>sicut nihil generat se ut sit secundum <name>augustinum</name> et <name>aristotelem</name> libro 
@@ -822,7 +820,7 @@
           <lb ed="#C"/>quia nulla contraria compatiuntur se etiam in quocumque gradu in eodem 
           <lb ed="#C"/>subiecto adaequato igitur nec habitus contrarii antecedens habet alias determinari
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2040">
           <lb ed="#C"/><pc type="#pilcrow"/> Dices nolo quod positive corrumpatur etc. <pc type="#pilcrow"/>Contra igitur 
           <lb ed="#C"/>istam responsionem potest argui per illud quod iam tactum est et similiter 
           <lb ed="#C"/>per hoc quod effectus natus permanere in absentia suae 
@@ -830,7 +828,7 @@
           <lb ed="#C"/>nisi tamquam conservativo a corruptione per extrinseca nisi subiectum virtualiter 
           <lb ed="#C"/>contrarietur <sic>fformae</sic> receptae in ipso vel alicui ipsum perficienti
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2069">
           <lb ed="#C"/>Sed anima de se nulli suae perfectioni actuali contrariatur nec formaliter
           <lb ed="#C"/>nec virtualiter nec indiget praeservativo ab extrinseco corruptivo suarum 
           <lb ed="#C"/>perfectionum nisi in casu quo illae perfectiones habent contraria 
@@ -840,32 +838,32 @@
           <lb ed="#C"/>sed habitus manet cessante causa sua productiva scilicet actu 
           <lb ed="#C"/>igitur etc
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2095">
           <pc type="#pilcrow"/>Contra tamen te pro dicta opinione <pc type="virgula">/</pc> tum terra creata 
           <lb ed="#C"/>cederet in nihilum absque positiva corrumpente <pc type="virgula">/</pc> et radius etiam causa<lb ed="#C"/>tus 
           a sole in media cessat absque extrinseco corrumpente impressio 
           <lb ed="#C"/>etiam sigilli in aqua cessat absque extrinseco corruptivo
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2113">
           <pc type="#pilcrow"/>Item sicut 
-          <lb ed="#C"/>allegat <ref><name>gandavensis</name> 5 <title>quolibet</title> quaestione 18</ref> in <ref>libro de longitudine 
-          <lb ed="#C"/>et brevitate vitae philosophum</ref> <pc type="#punctus"/> <quote>corruptio scientiae non solum est de<lb ed="#C"/>ceptio 
+          <lb ed="#C"/>allegat <ref xml:id="awls-l1d3q5-Rd1e2119"><name>gandavensis</name> 5 <title>quolibet</title> quaestione 18</ref> in <ref xml:id="awls-l1d3q5-Rd1e2127">libro de longitudine 
+          <lb ed="#C"/>et brevitate vitae philosophum</ref> <pc type="#punctus"/> <quote xml:id="awls-l1d3q5-Qd1e2135">corruptio scientiae non solum est de<lb ed="#C"/>ceptio 
           sed oblivio</quote> quae non est nisi cessatio
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2141">
           <pc type="#pilcrow"/>Ad primum 
           <lb ed="#C"/>et secundum dico quod non sunt ad propositum quia argumenta priora pro<lb ed="#C"/>cedunt 
           de effectu mansivo per tempus in absentia suae causae 
           <lb ed="#C"/>etiam naturaliter sed creatura non est talis respectu dei conservantis nec radius
           respectu solis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2152">
           <pc type="#pilcrow"/>Dices species manent aliquantulum in oculo clausis 
           <lb ed="#C"/>oculis post intuitionem visibilium intensorum secundum 
           <lb ed="#C"/>perspectivos et <name>augustinum</name> et alias in prologo concessisti <pc type="virgula">/</pc> quid igitur corrumpit 
           <lb ed="#C"/>illas illae enim nihil habent ut videtur contrarium nec formaliter nec virtualiter
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2170">
           <cb ed="#C" n="b"/>
           <lb ed="#C"/><pc type="#pilcrow"/> Dicendum vel quod illae reliquiae manentes in oculo aliquid illas
           <lb ed="#C"/>species concomitans quod sit causa illarum proxima partialis vel totalis 
@@ -877,12 +875,12 @@
           <lb ed="#C"/>dispositionem naturalem organi et huiusmodi reliquias et ideo dicendum 
           <lb ed="#C"/>destruuntur a qualitatibus naturalibus organi vel a substantia eiusdem
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2203">
           <lb ed="#C"/><pc type="#pilcrow"/> Dices quod lumini vel speciei coloris nihil est contrarium 
           <lb ed="#C"/>quia species contrariorum non sunt contrariae per <name>philosophum</name> et multo magis 
           <lb ed="#C"/>alia non contrariantur illis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2216">
           <pc type="#pilcrow"/>Dicendum quod lumini nihil contrariatur 
           <lb ed="#C"/><sic>fformaliter</sic> ex quo tamen lumen excellens est qualitas dis<lb ed="#C"/>conveniens 
           naturali dispositioni organi et corruptivum illius secundum 
@@ -892,7 +890,7 @@
           <lb ed="#C"/>destruet et corrumpet illud per <sic>fformam</sic> aliquam illi dispositioni 
           <lb ed="#C"/>actuali et corruptivae contrariam
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2243">
           <pc type="#pilcrow"/>Ad illud de impressione 
           <lb ed="#C"/>sigilli in aqua <pc type="#pilcrow"/>dicendum quod illa fit per motum partium 
           <lb ed="#C"/>aquae violentum et ideo cessante vim inferente aqua 
@@ -903,7 +901,7 @@
           <lb ed="#C"/>figura non distinguitur sicut res una a re alia a partibus 
           <lb ed="#C"/>aquae et qualitatibus eius ut credo
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2278">
           <pc type="#pilcrow"/>Ad secundum de <name>philosopho</name> dicendum 
           <lb ed="#C"/>quod tales habitus cessare absque contrario actu generativo habitus 
           <lb ed="#C"/>contrarii experimur quidquid fuerit in causa et talem corruptionem 
@@ -913,9 +911,9 @@
           <lb ed="#C"/>alius quem vocat solam cessationem cuius causam non reddidit
           <lb ed="#C"/>ibi
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2301">
           <pc type="#pilcrow"/>Causam autem talis cessationis assignat unus doctor 
-          <lb ed="#C"/>scilicet <ref><name>henricus</name> quodlibet 5 quaestione 18</ref> scilicet fomitem corruptivum omnium habi<lb ed="#C"/>tuum
+          <lb ed="#C"/>scilicet <ref xml:id="awls-l1d3q5-Rd1e2307"><name>henricus</name> quodlibet 5 quaestione 18</ref> scilicet fomitem corruptivum omnium habi<lb ed="#C"/>tuum
           veridicorum intellectualium et etiam moralium 
           <lb ed="#C"/>nisi per exercitium actuum conserventur vel redintegrentur 
           <lb ed="#C"/>quem etiam fomitem dicit inclinare in erroneas 
@@ -927,12 +925,12 @@
           <lb ed="#C"/>poena primi peccati secundum eos inclinat tamen in ex<lb ed="#C"/>secutiones 
           multas nobis prohibitas
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2344">
           <pc type="#pilcrow"/>Ista si sint vera 
           <lb ed="#C"/>tunc est clara via qualiter habitus corrumpantur nisi continuentur 
           <lb ed="#C"/>in se vel in simili per frequentiam actuum elicitorum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2354">
           <pc type="#pilcrow"/>Sed 
           <lb ed="#C"/>tunc ut videretur oporteret consequenter dicere quod actus subito causatus 
           <lb ed="#C"/>in anima vel successive non subito sed successive causat 
@@ -946,7 +944,7 @@
           <pb ed="#C" n="176-v"/>
           <cb ed="#C" n="a"/>sit tale impeditivum scilicet fomes sed tunc consequenter esset dicendum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2383">
           <lb ed="#C"/><pc type="#pilcrow"/> Alii dicunt et sensibilius mihi videtur quod <unclear>fomes <!-- not present in wood?--></unclear> non est 
           <lb ed="#C"/>aliqua talis fomes morbida qualitas in anima 
           <lb ed="#C"/>sed est naturalis hominis complexio naturalis inquam naturalitate debita 
@@ -954,7 +952,7 @@
           <lb ed="#C"/>passiones et exsecutiones contrarias inclinationi virtutum 
           <lb ed="#C"/>et exsecutionum virtuosarum
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2404">
           <pc type="#pilcrow"/>Istud videtur satis rationabiliter 
           <lb ed="#C"/>mihi dici sive sit verum sive falsum et per ilium modum posset 
           <lb ed="#C"/>satis bene salvari quomodo nisi elicerentur ffrequenter actus 
@@ -965,12 +963,12 @@
           <lb ed="#C"/>apprehensiones simplices nihil videntur habere contrarium in 
           <lb ed="#C"/>corpore nec in anima.
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2432">
           <pc type="#pilcrow"/>Aliter respondet <name>campsale</name> quod causa est 
           <lb ed="#C"/>quia aliquando alius actus intensus expellit speciem in memoria 
           <lb ed="#C"/>et quod haec est causa oblivionis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2444">
           <pc type="#pilcrow"/>Istud sufficienter redderet causam 
           <lb ed="#C"/>particularem de oblivione per corruptionem positivam 
           <lb ed="#C"/>puta quare habitus bonus corrumperetur per frequentiam actuum 
@@ -978,14 +976,14 @@
           <lb ed="#C"/>habitus veridicus corrumperetur per assensus erroneos contrarias sibi 
           <lb ed="#C"/>virtualiter
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2460">
           <pc type="#pilcrow"/>Sed vel ad nihil ad propositum de notitia habituali 
           <lb ed="#C"/>simplici apprehensivo rosae et huiusmodi quae non videntur habere 
           <lb ed="#C"/>contrarium aliquod nec <sic>fformale</sic> nec <sic>virtuali<!-- wood has "virtuale" --></sic>
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2477">
           <pc type="#pilcrow"/>Respondeo cum apostolo 
-          <lb ed="#C"/><quote ana="#IIcor12_2">nescio deus scit</quote> <pc type="virgula">/</pc> una causa tamen videretur posse poni 
+          <lb ed="#C"/><quote xml:id="awls-l1d3q5-Qd1e2482" ana="#IIcor12_2">nescio deus scit</quote> <pc type="virgula">/</pc> una causa tamen videretur posse poni 
           <lb ed="#C"/>quod sicut de lege communi ad distincte intelligendum unum oportet 
           <lb ed="#C"/>cessare ab intellectione alterius ita forte homo potest tot 
           <lb ed="#C"/>habitus adquirere pro statu isto quod tandem quando venerit 
@@ -995,13 +993,13 @@
           <lb ed="#C"/>statui alterius <unclear>rationis</unclear> generetur et non propter <sic>fformalem</sic> repugnantiam 
           <lb ed="#C"/>quae non est inter tales habitus non plus quam inter corruptivos actus
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2513">
           <pc type="#pilcrow"/>Sed nec iste modus sufficit quia ita oblivis<lb ed="#C"/>cuntur 
           illi qui paucos habitus habent sicut illi qui 
-          <lb ed="#C"/>multos hoc tamen est verum quod <quote>pluribus intentus minor 
+          <lb ed="#C"/>multos hoc tamen est verum quod <quote xml:id="awls-l1d3q5-Qd1e2521">pluribus intentus minor 
           <lb ed="#C"/>est ad singula sensus</quote>
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2527">
           <pc type="#pilcrow"/>alius modus posset poni levis 
           <lb ed="#C"/>et clarus si tamen sit verus quod deus ordinavit in poenam 
           <lb ed="#C"/>peccati quemcumque habitum adquisitum ad certam tantum periodum 
@@ -1010,7 +1008,7 @@
           <lb ed="#C"/>deo <del rend="expunctuation">ille modum et placet mihi adhuc</del> diutius conservare 
           <lb ed="#C"/>eam
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2550">
           <pc type="#pilcrow"/>alius etiam posset poni modus quod sicut dicit <name>doc<lb ed="#C"/>tor 
             subtilis</name> in poenam peccati est quod non possumus intelligere 
           <lb ed="#C"/>nisi simul fantasiando aliquod singulare et ulterius posset dici quod 
@@ -1020,7 +1018,7 @@
           <lb ed="#C"/>et refluunt nunc generantur quaedam nunc aliae corrumpuntur 
           <lb ed="#C"/>vel per similem aliquem modum cessant tales species etc.
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2573">
           <lb ed="#C"/><pc type="#pilcrow"/>Ad primum argumentum principale dicendum iuxta supra dicta quod
           <lb ed="#C"/>ymago dupliciter accipitur vel quo substantia creata rationalis semper 
           <lb ed="#C"/>dum est <unclear>an <!-- not present in Wood --></unclear> memoria et intelligentia et voluntas 
@@ -1031,11 +1029,11 @@
           <lb ed="#C"/>semper tenere vel pro vota elicere et istos actus perdidit et 
           <lb ed="#C"/>etiam posse de lege communi tales actus elicere
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2610">
           <pc type="#pilcrow"/>Ad secundum patet 
           <lb ed="#C"/>ex supra dictis
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2618">
           <pc type="#pilcrow"/>Ad tertium concedendum est quod nihil in creatura sufficit 
           <lb ed="#C"/>ad ducendum nos in primam notitiam trinitatis increatae complexe 
           <lb ed="#C"/>qua sciamus deum esse trinum realiter personaliter et unum 
@@ -1045,7 +1043,7 @@
           <lb ed="#C"/>rememorativam vel recorditivam trinitatis increatae per fidem 
           <lb ed="#C"/>et revelationem habitualiter notae
         </p>
-        <p>
+        <p xml:id="awls-l1d3q5-d1e2641">
           <pc type="#pilcrow"/>Alia essent dubia 
           <lb ed="#C"/>hic tractanda scilicet de veritate bonitate et entitate quae ponuntur 
           <lb ed="#C"/>partes vestigii quaedam et unus ternarius vestigialis an 
