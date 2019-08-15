@@ -381,7 +381,7 @@
           <lb ed="#C"/>possumus simul nolle illud</quote> igitur si idem appetere appetitus sensitivi esset velle 
           <lb ed="#C"/>et nolle <del rend="expunctuation">sed falsitas consequentis patet <unclear>naturaliter</unclear></del> simul forent in eodem subiecto 
           <lb ed="#C"/>indivisibili velle et nolle sed falsitas consequentis patet iterum quia non potest 
-          <cb ed="#C" n="b"/>
+          <cb ed="#C" n="b"/> <!--174v -->
           <lb ed="#C"/>plus anima simul velle et nolle idem quam assentire et dissentire 
           <lb ed="#C"/>eidem simul Sed illud est impossibile igitur <!-- wood has closing quotation mark here, but it doesn't correspond to an opening quotation -->
         </p>
@@ -471,8 +471,8 @@
         <p xml:id="awls-l1d3q5-d1e1144">
           <pc type="#pilcrow"/>Item tunc aliqua intellectio in anima esset 
           <pb ed="#C" n="175-r"/>
-          <lb ed="#C" n="b"/>
-          infinitae firmitatis immo quaelibet durans per modicum tempus quia in instantibus 2bus 
+          <cb ed="#C" n="a"/>
+          <lb ed="#C"/>infinitae firmitatis immo quaelibet durans per modicum tempus quia in instantibus 2bus 
           <lb ed="#C"/>magis <unclear>firmatur</unclear> quam in uno et in tribus magis quam in duobus igitur in infinitum
           et infinite
         </p>
