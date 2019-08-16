@@ -44,14 +44,15 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#C" n="173-v"/><cb ed="#C" n="b"/>
+        <pb ed="#C" n="173-v"/>
+        <cb ed="#C" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="awls-l1d3q5">
         <head xml:id="awls-l1d3q5-Hd1e97">Librum I, Distinctio 3, Quaestio 5 [Gonville and Caius 281 Transcription]</head>
         <p xml:id="awlsl1d3q5-cdtvet">
-          <lb ed="#C" n="12"/>Iuxta lectionem circa principium secundi continuando materiam 
+          <lb ed="#C" n="68"/>Iuxta lectionem circa principium secundi continuando materiam 
           <lb ed="#C"/>primi qui est de deo et sancta trinitate et specialiter tertiae distinctionis 
           <lb ed="#C"/>primi quae prae manibus habetur quoad conclusiones in qua tractatur 
           <lb ed="#C"/>de ymagine et vestigio trinitatis quaero utrum 
@@ -83,7 +84,7 @@
           <pc type="#pilcrow"/>Ad 
           <lb ed="#C"/>oppositum sunt auctoritates genesis et augustini allegatae in collatione quo<lb ed="#C"/>ad 
           imaginem et aliae multae tam quoad imaginem quam quo 
-          ad vestigium quas adducit <name>magister</name> in littera distinctione 3ae primi
+          <lb ed="#C"/>ad vestigium quas adducit <name>magister</name> in littera distinctione 3ae primi
         </p>
         <p xml:id="awls-l1d3q5-d1e194">
           <pc type="#pilcrow"/> In 
@@ -124,7 +125,7 @@
           <lb ed="#C"/>habeat cognitionem de <sic>homine</sic> si videat statuam <name>herculis</name> 
           <pb ed="#C" n="174-r"/>
           <cb ed="#C" n="a"/>
-          non plus cogitabit de hercule quam de sorte si autem 
+          <lb ed="#C"/>non plus cogitabit de hercule quam de sorte si autem 
           <lb ed="#C"/>viderit herculem et <sic>recipiat</sic> habitualem notitiam herculis 
           <lb ed="#C"/>vel etiam per auditum si didicerit conditiones proprias <sic>quas</sic> <choice><sic>simratum</sic><corr>signatas</corr></choice> 
           <lb ed="#C"/>in ymagine eius seu statua et <sic>posteat</sic> videat statuam 
@@ -165,15 +166,15 @@
           <lb ed="#C"/>alico modo sicut patet inductive de vestigio bovis <!--[et]--> de 
           <lb ed="#C"/>vestigio combustionis et sic de similibus et hinc est quod 
           <lb ed="#C"/>vestigium dicitur aliquid derelictum ex alio <pc type="#pilcrow"/>De ratione autem ymaginis
-          non est quod causetur ab isto cuius est ymago sufficit enim quod ymago her<lb ed="#C"/>culis
+          <lb ed="#C"/>non est quod causetur ab isto cuius est ymago sufficit enim quod ymago her<lb ed="#C"/>culis
           ab alio causetur quam ab hercule
         </p>
         <p xml:id="awlsl1d3q5-ntqiqr">
           <add place="margin-bottom">
             nota tamen quod strictissime seu proprissime et non sic communiter ut prius loquendo de ymagine et ratione ymaginis est quod similitudo expressa seu genita ab cuius est ymago sicut dicit augustinus 
             de 83 quaestionibus quaestione 74 sicut ibi exemplificat ut in speculo inquit est ymago hominis quia de illo expressa est similiter de parentibus et filiis nam et de parente expressa est ymago filii ut recte dicatur 
-            <lb ed="#C"/>imago et tamen proprie etiam sumitur ymago sicut praeaccepi teste magistro vel libro 2o dist 16, cap 2 ubi dicit pro quadam auctoritate bedae super hoc quod trinitas improprie ymago dicitur 
-            <lb ed="#C"/>cuius causa est quia imago inquit relative ad aliud dicitur cuius similitudinem gerit et ad quod repraesentandum facta est·sicut ymago caesaris quae ipsius similitudinem praeferebat ipsumque quodammodo repraesentabat haec ille
+            <!--<lb ed="#C"/>-->imago et tamen proprie etiam sumitur ymago sicut praeaccepi teste magistro vel libro 2o dist 16, cap 2 ubi dicit pro quadam auctoritate bedae super hoc quod trinitas improprie ymago dicitur 
+            <!--<lb ed="#C"/>-->cuius causa est quia imago inquit relative ad aliud dicitur cuius similitudinem gerit et ad quod repraesentandum facta est·sicut ymago caesaris quae ipsius similitudinem praeferebat ipsumque quodammodo repraesentabat haec ille
           </add>
         </p>
         <p xml:id="awlsl1d3q5-ehdspi">
@@ -184,7 +185,7 @@
           <lb ed="#C"/>consimiles non potest sufficienter ymago ducere verbi gratia vestigium
           <lb ed="#C"/>bovis non tantum facit recordari de bove habitualiter noto 
           <lb ed="#C"/>sed ducit communiter <sic>incredulitatem</sic> conformem huic complexa contingenti 
-          bos hic transivit <pc type="#pilcrow"/> Si ymago petri non in hanc petrus 
+          <lb ed="#C"/>bos hic transivit <pc type="#pilcrow"/> Si ymago petri non in hanc petrus 
           <lb ed="#C"/>hic transivit et huiusmodi vestigium autem et ymago multipliciter accipiuntur 
           <lb ed="#C"/>sicut patet in <name>hokam</name>
         </p>
@@ -296,7 +297,7 @@
           <lb ed="#C"/>secundo articulo responsionis proprie in solutione secundi dubii principalis
         </p>
         <p xml:id="awlsl1d3q5-asdssa">
-          <lb ed="#C"/>Ad 
+          <pc type="#pilcrow"/>Ad 
           <lb ed="#C"/>2m dico quod in consubstantialitate deficit ymago a trinitate personarum inter 
           <lb ed="#C"/>quas est consubstantialitas verum est tamen quod <unclear>aliqua<!-- alia?? --></unclear> possunt haberi signa 
           <lb ed="#C"/>expressiva illarum partium distinctarum quae vere affirmantur de eadem enim 
@@ -314,7 +315,7 @@
           <lb ed="#C"/>capax est autem dei mediante intellectione et dilectione dei et 
           <lb ed="#C"/>ideo eo ymago quo intellectiva et dilectiva dei et hic exprimuntur 
           <lb ed="#C"/>diversa realiter per signa eiusdem substantiae <del rend="strikethrough">u</del> saltem sup<lb ed="#C"/>ponentia 
-          <lb ed="#C"/>pro eadem substantia nunquam removentur ab anima rationali 
+          pro eadem substantia nunquam removentur ab anima rationali 
           <lb ed="#C"/>unde haec semper est vera et necessaria si formetur anima est memoria 
           <lb ed="#C"/>intelligentia et voluntas si anima saltem sit nec aliud intendit 
           <lb ed="#C"/>augustinus per ymaginem esse immortalem quam quod anima necessario et immortaliter ipsa 
@@ -439,7 +440,8 @@
         </p>
         <p xml:id="awls-l1d3q5-d1e1081">
           <pc type="#pilcrow"/>rationes 
-          <lb ed="#C"/>igitur istius cum ipsemet teneat rem tantum habent colorem vocalem de contrarietate 
+          <lb ed="#C"/>igitur istius cum ipsemet teneat rem et ratio forte licet particulariter quia forte non  
+          <lb ed="#C"/>habent idem praecise pro obiecto tantum habent colorem vocalem de contrarietate 
           <lb ed="#C"/>velle et nolle qualem haberent illi qui probarent idem simul esse 
           <lb ed="#C"/>bonum et malum et ita contraria simul in eodem quia idem actus est bonus 
           <lb ed="#C"/>in natura et malus more quod nihil esset ad rem vel quod contraria essent simul 
@@ -477,7 +479,7 @@
           et infinite
         </p>
         <p xml:id="awls-l1d3q5-d1e1158">
-          <pc type="#pilcrow"/>Item tunc posset habere infinitas intentiones superadditas 
+          <lb ed="#C"/><pc type="#pilcrow"/>Item tunc posset habere infinitas intentiones superadditas 
           <lb ed="#C"/>sibi ex quo potest habere infinita obiecta et non est maior ratio quod 
           <lb ed="#C"/>respectu unius obiecti habeat intellectionem sibi superadditam quam respectu alterius
         </p>
@@ -522,7 +524,7 @@
         <p xml:id="awls-l1d3q5-d1e1269">
           Aliter igitur respondeo primam enim consequentiam ego nego et ad probationem 
           <lb ed="#C"/>dico quod si cetera sunt paria sicut accipit argumentum subito 
-          causabitur et in primo instanti tanta notitia quanta est causabilis a 
+          <lb ed="#C"/>causabitur et in primo instanti tanta notitia quanta est causabilis a 
           <lb ed="#C"/>tali obiecto et intellectu sic disposito falsum igitur supponitur quod prior 
           <lb ed="#C"/>pars notitiae vel una pars, disponat ad aliam quia anima in <unclear>primis <!-- Wood has "primo instanti" could also be "prius" --></unclear> 
           <lb ed="#C"/>si non habeat habitum contrarium qualem non contingit dare respectu simplicium 
@@ -703,7 +705,7 @@
         </p>
         <!-- why paragraph break here -->
         <p xml:id="awls-l1d3q5-d1e1768">
-          <lb ed="#C"/>Vel potest aliter dici et ista responsio est generaliter 
+          Vel potest aliter dici et ista responsio est generaliter 
           <lb ed="#C"/>tam in primo casu quam in isto si istud quod nunc 
           <lb ed="#C"/>dixi non sit verum quod licet habitus intendat actum et e converso 
           <lb ed="#C"/>sicut imaginatur argumentum quia tamen illud augmentum non est secundum 
@@ -712,7 +714,7 @@
           <lb ed="#C"/>ceteris paribus producit portionem aequalem de habitu sed non 
           <lb ed="#C"/>econverso quia vel actus est causa totalis vel principalis et praeponderans
           <lb ed="#C"/>in generatione habitus sed non econverso quia habitus nec est causa totalis
-          actus nec praeponderans sed potentia
+          <lb ed="#C"/>actus nec praeponderans sed potentia
         </p>
         <p xml:id="awls-l1d3q5-d1e1792">
           <pc type="#pilcrow"/>Ymaginandum est igitur quod 
@@ -760,7 +762,7 @@
         </p>
         <p xml:id="awls-l1d3q5-d1e1905">
           <pc type="#pilcrow"/>Ad secundam instantiam et etiam tertiam 
-          contra primam responsionem ad secundum principale argumentum huius dubii patet per idem
+          <lb ed="#C"/>contra primam responsionem ad secundum principale argumentum huius dubii patet per idem
         </p>
         <p xml:id="awls-l1d3q5-d1e1911">
           <lb ed="#C"/><pc type="#pilcrow"/> Ad tertiam principalem instantiam potest dici vel quod obiecta infinita distincta 
@@ -855,7 +857,7 @@
           <lb ed="#C"/>et secundum dico quod non sunt ad propositum quia argumenta priora pro<lb ed="#C"/>cedunt 
           de effectu mansivo per tempus in absentia suae causae 
           <lb ed="#C"/>etiam naturaliter sed creatura non est talis respectu dei conservantis nec radius
-          respectu solis
+          <lb ed="#C"/>respectu solis
         </p>
         <p xml:id="awls-l1d3q5-d1e2152">
           <pc type="#pilcrow"/>Dices species manent aliquantulum in oculo clausis 
@@ -942,7 +944,8 @@
           <lb ed="#C"/>scilicet frigorem nec ponere illam successionem in naturali produc<lb ed="#C"/>tione 
           habitus videretur magnum inconveniens posito quod in anima 
           <pb ed="#C" n="176-v"/>
-          <cb ed="#C" n="a"/>sit tale impeditivum scilicet fomes sed tunc consequenter esset dicendum
+          <cb ed="#C" n="a"/>
+          <lb ed="#C"/>sit tale impeditivum scilicet fomes sed tunc consequenter esset dicendum
         </p>
         <p xml:id="awls-l1d3q5-d1e2383">
           <lb ed="#C"/><pc type="#pilcrow"/> Alii dicunt et sensibilius mihi videtur quod <unclear>fomes <!-- not present in wood?--></unclear> non est 
