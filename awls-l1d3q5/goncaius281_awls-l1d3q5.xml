@@ -848,8 +848,8 @@
         </p>
         <p xml:id="awls-l1d3q5-d1e2113">
           <pc type="#pilcrow"/>Item sicut 
-          <lb ed="#C"/>allegat <ref xml:id="awls-l1d3q5-Rd1e2119"><name>gandavensis</name> 5 <title>quolibet</title> quaestione 18</ref> in <ref xml:id="awls-l1d3q5-Rd1e2127">libro de longitudine 
-          <lb ed="#C"/>et brevitate vitae philosophum</ref> <pc type="#punctus"/> <quote xml:id="awls-l1d3q5-Qd1e2135">corruptio scientiae non solum est de<lb ed="#C"/>ceptio 
+          <lb ed="#C"/>allegat <ref xml:id="awls-l1d3q5-Rd1e2119" target="http://scta.info/resource/n3av8a-c1e2010-d1e117"><name>gandavensis</name> 5 <title>quolibet</title> quaestione 18</ref> in <ref xml:id="awls-l1d3q5-Rd1e2127">libro de longitudine 
+          <lb ed="#C"/>et brevitate vitae philosophum</ref> <pc type="#punctus"/> <quote xml:id="awls-l1d3q5-Qd1e2135" >corruptio scientiae non solum est de<lb ed="#C"/>ceptio 
           sed oblivio</quote> quae non est nisi cessatio
         </p>
         <p xml:id="awls-l1d3q5-d1e2141">
